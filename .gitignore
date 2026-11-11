@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.superpowers/
+.taste-skill/
+.worktrees/
+*.tsbuildinfo
+.env*
+!.env.example
+.DS_Store

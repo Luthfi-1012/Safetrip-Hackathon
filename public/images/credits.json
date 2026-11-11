@@ -1,0 +1,78 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-f73659632-1280.jpg",
+   "files": [
+    "photo-f73659632-500.jpg",
+    "photo-f73659632-960.jpg",
+    "photo-f73659632-1280.jpg"
+   ],
+   "id": "f73659632",
+   "alt": "12-Chureito-pagoda-and-Mount-Fuji-Japan (29677439878)",
+   "by": "Dang Son",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:12-Chureito-pagoda-and-Mount-Fuji-Japan_(29677439878).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f142949336.jpg",
+   "files": [
+    "photo-f142949336-500.jpg",
+    "photo-f142949336-960.jpg",
+    "photo-f142949336.jpg"
+   ],
+   "id": "f142949336",
+   "alt": "Minato City, Tokyo, Japan (Night)",
+   "by": "David Kernan",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f48572112-960.jpg",
+   "files": [
+    "photo-f48572112-500.jpg",
+    "photo-f48572112-960.jpg"
+   ],
+   "id": "f48572112",
+   "alt": "Jyorakuji Temple Kyoto City",
+   "by": "KishujiRapid",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jyorakuji_Temple_Kyoto_City.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f128550761.jpg",
+   "files": [
+    "photo-f128550761-500.jpg",
+    "photo-f128550761-960.jpg",
+    "photo-f128550761.jpg"
+   ],
+   "id": "f128550761",
+   "alt": "Shirataka Ski resort, Shirataka, Yamagata, Japan, February 2023",
+   "by": "Tail furry",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Shirataka_Ski_resort,_Shirataka,_Yamagata,_Japan,_February_2023.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f150274144-960.jpg",
+   "files": [
+    "photo-f150274144-500.jpg",
+    "photo-f150274144-960.jpg"
+   ],
+   "id": "f150274144",
+   "alt": "Osaka-jo Castle Evening 2024-07",
+   "by": "Mr.ちゅらさん",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Osaka-jo_Castle_Evening_2024-07.jpg",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
